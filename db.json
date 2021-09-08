@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "FullName": "",
+      "EmailAddress": "",
+      "ResidentialAddress": "",
+      "ContactNo": "",
+      "ShopName": "",
+      "AccountNo": "",
+      "Password": "",
+      "ConfirmPassword": "",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "FullName": "",
+      "EmailAddress": "",
+      "ResidentialAddress": "",
+      "ContactNo": "",
+      "ShopName": "",
+      "AccountNo": "",
+      "Password": "",
+      "ConfirmPassword": "",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "FullName": "",
+    "EmailAddress": "",
+    "ResidentialAddress": "",
+    "ContactNo": "",
+    "ShopName": "",
+    "AccountNo": "",
+    "Password": "",
+    "ConfirmPassword": ""
+  }
+}
